@@ -1,11 +1,11 @@
-# 🚀 React + Tailwind Learning Projects
+# React + Tailwind Learning Projects
 
-This repository is a **learning playground** for **React.js** with **Tailwind CSS**.  
-Each project is designed to help practice and understand React concepts while applying Tailwind's utility-first CSS framework. The setup uses **Vite** for fast development and hot reloading. ⚡
+This repository is a recording my journey of learning  **React.js** with **Tailwind CSS**.  
+This project uses **Vite** for fast development and hot reloading. ⚡
 
 ---
 
-## 🛠️ Project Setup
+## Project Setup
 
 Follow these steps to set up the project locally:
 
