@@ -55,3 +55,21 @@ Run the Vite dev server:
 ```bash
 npm run dev
 ```
+
+## Live Demo
+
+### 1. Background Changer
+
+react app to change background color
+
+Live Demo: [🌐 https://bgchanger-bice.vercel.app/](https://bgchanger-bice.vercel.app/)
+
+
+### 2. Password Generator
+
+Live Demo: [🌐 https://passwordgenerator-phi-blush.vercel.app/](https://passwordgenerator-phi-blush.vercel.app/)
+
+
+# 3. Currency Converter
+
+Live Demo: [🌐 https://06currencyconverter-snowy.vercel.app/](https://06currencyconverter-snowy.vercel.app/)
